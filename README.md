@@ -104,13 +104,13 @@ This project explores questions such as:
 
 This chart shows which skills appear most frequently across job postings, indicating strong market demand.
 
-![Top In-Demand Skills](skill_demand.png)
+![Top In-Demand Skills](images/skill_demand.png)
 
 ### 💰 Highest Paying Skills
 
 This chart highlights the skills associated with the highest average salaries.
 
-![Top Paying Skills](skill_salary.png)
+![Top Paying Skills](images/skill_salary.png)
 
 > 📌 **Note:** Salary-based insights are averages across postings and may vary by seniority, company, and region.
 
